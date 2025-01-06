@@ -5,10 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript, CSS, HTML and React**
 
-- 📫 How to reach me: **anacarolina.cassiano@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">  **anacarolina.cassiano@outlook.com**
+  **www.linkedin.com/in/anacarolinaramoss**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
