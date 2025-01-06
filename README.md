@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, CSS, HTML and React**
 
-- 📫 How to reach me **anacarolina.cassiano@outlook.com**
+- 📫 How to reach me: **anacarolina.cassiano@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
