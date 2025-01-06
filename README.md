@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studing Software Engineering **at Cruzeiro do Sul University.**
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML and React.js**
+- 🌱 I’m currently learning **Javascript, CSS, HTML and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
